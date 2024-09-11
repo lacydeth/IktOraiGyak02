@@ -2,7 +2,7 @@
   "profiles": {
     "IktOraiGyak02": {
       "commandName": "Project",
-      "commandLineArgs": "1 2 3"
+      "commandLineArgs": "7 5"
     }
   }
 }
